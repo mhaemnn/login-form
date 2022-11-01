@@ -16,7 +16,16 @@
 
     //  penulisan variable
     $data = "buku";
+    $namaHewan = "serangga";
+    $set_harga = 1000;
+
+    /*
+    1. tidak boleh diawali denga huruf besar atau angka
+    2. tidak bole menggunakan symbol
+     */
+
     echo "itu adalah $buku yang saya rekomdasikan untuk anda";
+
     ?>
 </body>
 
